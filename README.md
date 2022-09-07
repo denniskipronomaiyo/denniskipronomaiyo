@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denniskipronomaiyo
+- 👋 Hi, I’m Kiprono
 - 👀 I’m interested in python programming
 - 💞️ I’m looking to collaborate on any python related projects
 - 📫 You can reach me on maiyokipronodennis@gmail.com

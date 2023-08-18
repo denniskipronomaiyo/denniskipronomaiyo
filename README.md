@@ -11,20 +11,6 @@ Greetings! I am Dennis Kiprono Maiyo, a dedicated Data Engineer with a profound 
 - Skilled in Business Intelligence, leveraging PowerBi for insightful data visualization
 - Proficient in SQL Programming for efficient data extraction and robust database management
 
-## 💼 Projects
-
-### [Project Name]
-
-**Description:** Briefly describe the project, its purpose, and the technologies utilized.
-
-GitHub Repository: [Link to GitHub Repository]
-
-### [Project Name]
-
-**Description:** Briefly describe the project, its purpose, and the technologies utilized.
-
-GitHub Repository: [Link to GitHub Repository]
-
 ## 📬 Connect With Me
 
 - GitHub: [denniskipronomaiyo](https://github.com/denniskipronomaiyo)

@@ -6,11 +6,11 @@ Greetings! I am Dennis Kiprono Maiyo, a dedicated Data Engineer with a profound 
 
 ## 🔧 Skills
 
-- Proficient in API Development using various Python frameworks.
-- Expertise in Data Pipeline Development with automation utilizing open-source tools like Prefect, Airflow & AirByte.
-- Skilled in Business Intelligence, leveraging PowerBi for insightful data visualization.
-- Proficient in SQL Programming for efficient data extraction and robust database management.
-- Skilled in Data Warehousing using best tools depending on the given usecase/scenario.
+- Adept in crafting APIs using a variety of Python frameworks.
+- Profound skillset in constructing automated Data Pipelines through open-source tools such as Prefect, Airflow & AirByte.
+- Proficient in harnessing the capabilities of PowerBi for illuminating data visualization in the realm of Business Intelligence.
+- Fluent in SQL Programming, ensuring streamlined data extraction and maintaining resilient database systems.
+- Proficient in the art of Data Warehousing, employing the most suitable tools based on the specific use case or scenario.
 
 ## 📬 Connect With Me
 

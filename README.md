@@ -1,7 +1,7 @@
 # Dennis Kiprono Maiyo
 
 ## 🚀 About Me
-Greetings! I am Dennis Kiprono Maiyo, a dedicated Data Engineer with a profound commitment to unraveling intricate data challenges. My fervor lies in collaborating with a global community of visionaries, with the aim of delivering innovative and groundbreaking solutions to a diverse spectrum of issues.
+Greetings! I am Dennis Kiprono Maiyo, a dedicated Data Engineer. 
 
 ## 🔧 Skills
 - Experienced in creating APIs using various Python frameworks.

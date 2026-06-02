@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a Data Engineer with experience in building scalable data pipelines, designing data models and transforming raw data into reliable datasets for analytics and business intelligence. I enjoy working across the data stack—from ingestion to modeling and visualization—using modern open-source tools.
+I am a Data Engineer with experience in building scalable data pipelines, designing data models and transforming raw data into reliable datasets for analytics and business intelligence. I enjoy working across the data stack—from ingestion to modeling.
 
 ---
 

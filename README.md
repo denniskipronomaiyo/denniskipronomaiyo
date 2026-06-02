@@ -1,17 +1,38 @@
 # Dennis Kiprono Maiyo
 
 ## 🚀 About Me
-Greetings! I am Dennis Kiprono Maiyo, a dedicated Data Engineer. 
 
-## 🔧 Skills
-- Experienced in creating APIs using various Python frameworks.
-- Skilled in designing automated Data Pipelines using open-source tools like Prefect, Airflow, and AirByte.
-- Competent in utilizing PowerBi for effective data visualization in Business Intelligence.
-- Fluent in SQL Programming, for efficient data extraction and robust database maintenance.
-- Proficient in Data Warehousing strategies skilled in selecting appropriate tools for specific use cases.
-- Proficient in Data Modelling to ensure accurate representation of real-world information.
+I am a Data Engineer with experience in building scalable data pipelines, designing data models and transforming raw data into reliable datasets for analytics and business intelligence. I enjoy working across the data stack—from ingestion to modeling and visualization—using modern open-source tools.
+
+---
+
+## 🔧 Skills & Expertise
+
+**Data Engineering & Pipelines**
+
+* Designing and building automated data pipelines using tools like **Apache Airflow, Prefect, and Airbyte**
+* Working with batch and near real-time data ingestion workflows
+* Building reliable ETL/ELT processes for structured and unstructured data
+
+**Programming & APIs**
+
+* Developing APIs and backend services using Python frameworks
+* Writing clean, efficient and maintainable Python code
+
+**Data Warehousing & Modeling**
+
+* Designing scalable data warehouse architectures
+* Applying dimensional modeling (Kimball approach) for analytics-ready datasets
+* Structuring data for performance and usability
+
+**Databases & SQL**
+
+* Advanced SQL for data extraction, transformation and analysis
+* Database design, optimization and maintenance
+
+---
 
 ## 📬 Connect With Me
-- LinkedIn: [Dennis Maiyo](https://www.linkedin.com/in/dennis-maiyo-69945611a/)
 
-Feel free to reach out to me for collaboration.
+* LinkedIn: [Dennis Maiyo](https://www.linkedin.com/in/dennis-maiyo-69945611a/)
+
